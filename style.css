@@ -1,3 +1,8 @@
 body {
-  background: darkolivegreen;
+  background: #ffe87c;
+  text-align: center;
+}
+
+#text-box {
+  background: orange;
 }
